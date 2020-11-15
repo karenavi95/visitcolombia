@@ -2,3 +2,13 @@
     background: yellow;
     padding: 1rem;
 }
+.flag{
+    background-image: url('iamges/colombia-flag.jpg');
+    padding: 6rem;
+    color: white;
+    font-size: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 40%
+    
+}
